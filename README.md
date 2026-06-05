@@ -1,7 +1,7 @@
 <p align="center">
-  <font color="#58A6FF" size="6"><b>Hi 👋, I'm Vedang Mittal</b></font><br />
-  <font color="#58A6FF" size="5">Software Engineer</font>
+  <img src="header.svg" alt="Hi, I'm Vedang Mittal" />
 </p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/vedangmittal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
