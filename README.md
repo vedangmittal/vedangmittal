@@ -1,6 +1,6 @@
 <p align="center">
-  <h1 align="center"><font color="#58A6FF">Hi 👋, I'm Vedang Mittal</font></h1>
-  <h3 align="center"><font color="#58A6FF">Software Engineer</font></h3>
+  <font color="#58A6FF" size="6"><b>Hi 👋, I'm Vedang Mittal</b></font><br />
+  <font color="#58A6FF" size="5">Software Engineer</font>
 </p>
 
 <p align="center">
