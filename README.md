@@ -1,22 +1,35 @@
 ## 👋 Hi, I'm Vedang Mittal
 
-Software engineer in London, specializing in **Java, Spring Boot, and distributed systems**.
+Software Engineer at **JPMorgan Chase** in London. I build distributed backend systems — microservices, event-driven architectures, and cloud-native solutions on AWS.
 
-- 🔭 Building scalable backend systems with microservices & Kafka
-- 🌱 Deep-diving into distributed systems, cloud architecture, and system design
-- 💬 Ask me about Java, Spring Boot, Kafka, AWS, or backend architecture
-- 📫 Reach me at vedang2412@gmail.com
+### 👨‍💻 Current Work
+
+- Building scalable microservices with **Java, Spring Boot, Kafka, and AWS**
+- Automating infra with **Terraform**, optimizing CI/CD pipelines
+- Exploring **LLMs & AI agents** with LangChain, LangGraph, and Gemini
+
+### 🔥 Highlights
+
+- Redesigned a monolith into microservices — 40% faster deployments, lower infra costs
+- 4x performance gain on a cleanup service (12 min → 3 min)
+- Automated SSL cert provisioning, saving 2 days/quarter
+- Finalist in INFAthon 2021 (15,000+ participants)
 
 ### 🛠️ Tech Stack
 
-**Languages:** Java, Python, JavaScript  
-**Frameworks:** Spring Boot, Hibernate  
-**Infra:** Kafka, AWS, Docker, Kubernetes  
-**Databases:** PostgreSQL, MongoDB, Redis  
+**Languages:** Java, Python, C++, JavaScript, SQL  
+**Backend:** Spring Boot, REST APIs, Microservices  
+**Cloud & Infra:** AWS, Terraform, Cloud Foundry, Docker  
+**Messaging & Data:** Kafka, SQS/SNS, Cassandra, MySQL  
+**DevOps:** Jenkins, Spinnaker, Maven, Grafana  
+**AI/LLM:** LangChain, LangGraph, Gemini, RAGAS  
 
-### 📊 GitHub Stats
+### 📌 Featured Projects
 
-![Vedang's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedangmittal&show_icons=true&theme=dark)
+[**QueryGen**](https://github.com/vedangmittal/QueryGen) — NL-to-SQL chatbot using Gemini + LangChain. Schema-grounded prompts, LangGraph ReAct agent with query validation and execution tools. Evaluated with RAGAS.
+
+### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vedangmittal)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vedang2412@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/vedangmittal)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vedangmittal24@gmail.com)
