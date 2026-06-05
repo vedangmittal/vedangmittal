@@ -45,38 +45,3 @@ Software Engineer at **JPMorgan Chase** in London. I design and build distribute
 | **Messaging & Data** | Kafka, SQS/SNS, Cassandra, MySQL |
 | **DevOps** | Maven, Jenkins, Spinnaker, Grafana |
 | **AI/LLM** | LangChain, LangGraph, Gemini, RAGAS |
-
----
-
-### 📌 Featured Project
-
-<details open>
-<summary><b>QueryGen</b> — NL-to-SQL Chatbot</summary>
-
-Built an AI-powered chatbot that converts natural language to MySQL queries using **Gemini + LangChain**. Non-technical users can query databases without SQL knowledge.
-
-- LangGraph ReAct agent with schema introspection and query validation
-- Schema-grounded prompts evaluated with RAGAS (context precision, helpfulness)
-- [View on GitHub](https://github.com/vedangmittal/QueryGen)
-
-</details>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedangmittal&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedangmittal&layout=compact&theme=github_dark&hide_border=true&border_radius=10" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedangmittal&theme=github-dark-blue&hide_border=true&border_radius=10" />
-</p>
-
----
-
-<p align="center">
-  <i>Let's connect!</i><br />
-  <a href="https://linkedin.com/in/vedangmittal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/vedangmittal"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="mailto:vedangmittal24@gmail.com"><img src="https://img.shields.io/badge/vedangmittal24@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
