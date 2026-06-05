@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vedang+Mittal;Software+Engineer;Distributed+Systems+%7C+Backend+%7C+AWS" alt="Typing SVG" />
+  <h1 align="center">Hi 👋, I'm Vedang Mittal</h1>
+  <h3 align="center">Software Engineer</h3>
 </p>
 
 <p align="center">
@@ -10,36 +11,27 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Technologist.png" width="25" /> About Me
+### 👨‍💻 About Me
 
 Software Engineer at **JPMorgan Chase** in London. I design and build distributed backend systems — microservices, event-driven architectures, and cloud-native solutions on AWS.
 
 - 🔭 Working on **microservices, Kafka, and cloud infra** at JPMC
 - 🌱 Exploring **LLMs, AI agents, and system design**
 
+---
+
+### 🚀 Key Achievements
+
+| Metric | Impact |
+|--------|--------|
+| **40%** faster deployments | Monolith → microservices redesign |
+| **4x** performance gain | Cleanup service: 12 min → 3 min |
+| **18%** build time reduction | CI/CD dependency caching |
+| **2 days/quarter** saved | Automated SSL cert provisioning |
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" /> Key Achievements
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center"><b>🚀 40%</b></td>
-      <td align="center"><b>⚡ 4x</b></td>
-      <td align="center"><b>📉 18%</b></td>
-    </tr>
-    <tr>
-      <td align="center">Faster deployments</td>
-      <td align="center">Performance gain</td>
-      <td align="center">Build time reduction</td>
-    </tr>
-  </table>
-</p>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" /> Tech Stack
+### 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,aws,kafka,docker,terraform,git,maven,postgres" />
@@ -56,11 +48,10 @@ Software Engineer at **JPMorgan Chase** in London. I design and build distribute
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" /> Featured Project
+### 📌 Featured Project
 
 <details open>
 <summary><b>QueryGen</b> — NL-to-SQL Chatbot</summary>
-<br />
 
 Built an AI-powered chatbot that converts natural language to MySQL queries using **Gemini + LangChain**. Non-technical users can query databases without SQL knowledge.
 
@@ -70,4 +61,22 @@ Built an AI-powered chatbot that converts natural language to MySQL queries usin
 
 </details>
 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedangmittal&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedangmittal&layout=compact&theme=github_dark&hide_border=true&border_radius=10" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedangmittal&theme=github-dark-blue&hide_border=true&border_radius=10" />
+</p>
+
+---
+
+<p align="center">
+  <i>Let's connect!</i><br />
+  <a href="https://linkedin.com/in/vedangmittal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/vedangmittal"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:vedangmittal24@gmail.com"><img src="https://img.shields.io/badge/vedangmittal24@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
